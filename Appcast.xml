@@ -3,10 +3,10 @@
     <channel>
         <title>StudyApp</title>
         <item>
-            <title>1.1</title>
+            <title>16.1</title>
             <pubDate>Thu, 24 Nov 2022 11:26:34 +0800</pubDate>
             <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>16.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://drive.google.com/file/d/1TNq6oaDvUicD3Ws4ryp4qXCafYVkL5Mi/view?usp=share_link" length="45862622" type="application/octet-stream"/>
         </item>
