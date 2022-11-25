@@ -3,12 +3,13 @@
     <channel>
         <title>StudyApp</title>
         <item>
-            <title>8</title>
+            <title>1.2</title>
             <pubDate>Fri, 25 Nov 2022 15:29:31 +0800</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>8</sparkle:minimumSystemVersion>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>1.2</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/RicoLin2022/appcast/main/StudyApp.zip" length="47226539" type="application/octet-stream" sparkle:edSignature="4q7CQb7fJ9vmvadsLYTuAi2/dgbDUyVZdjcFX9SOOqxHGxmF5BWN9ZD5GZa3FrSYo/lOlAiH7wrFh8P75c+nBw=="/>
+            <sparkle:criticalUpdate sparkle:version="1.2"></sparkle:criticalUpdate>
         </item>
     </channel>
 </rss>
