@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>1.2</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/RicoLin2022/appcast/main/StudyApp.zip" length="47226539" type="application/octet-stream" sparkle:edSignature="4q7CQb7fJ9vmvadsLYTuAi2/dgbDUyVZdjcFX9SOOqxHGxmF5BWN9ZD5GZa3FrSYo/lOlAiH7wrFh8P75c+nBw=="/>
-            <sparkle:criticalUpdate sparkle:version="1.2"></sparkle:criticalUpdate>
+            <sparkle:criticalUpdate sparkle:version="1.1"></sparkle:criticalUpdate>
         </item>
     </channel>
 </rss>
