@@ -3,12 +3,12 @@
     <channel>
         <title>StudyApp</title>
         <item>
-            <title>16</title>
-            <pubDate>Thu, 24 Nov 2022 11:26:34 +0800</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>16</sparkle:shortVersionString>
+            <title>1.1</title>
+            <pubDate>Fri, 25 Nov 2022 14:39:51 +0800</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://cloud.medier.io/index.php/s/y9HatWo9wXojPgc/download/StudyApp.zip" length="45862622" type="application/octet-stream"/>
+            <enclosure url="https://cloud.medier.io/index.php/s/y9HatWo9wXojPgc/download/StudyApp.zip" length="47226574" type="application/octet-stream" sparkle:edSignature="qxg6BrLRtHzqOWx4GlNLnh1ilWdYhJv4Iv/Y/xe77xrSfepl5zGJGn77GIFbx2Vou56EuhfWFNA5U1WaAhCMCQ=="/>
         </item>
     </channel>
 </rss>
