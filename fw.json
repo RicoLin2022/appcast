@@ -7,6 +7,7 @@
         "category": "mac",
         "product": "SC",
         "version": "2.0.0",
+	"enabled": true,
         "updated_time": 1669011036000,
         "url": "https://cloud.medier.io/index.php/s/ZEDP3WSx6kSB37d/download/StudyApp.zip"
     }
