@@ -1,14 +1,6 @@
 [
-    {
-        "id": 1083,
-        "name": "StudyApp.zip",
-        "md5": "51c36999bff276e6263c750b83713a68",
-        "category": "mac",
-        "product": "SC",
-        "version": "1.1.0",
-	"enabled": true,
-        "updated_time": 1669011036000,
-	"desc": "4aBqzvwQPfAD10BA6zFF9Zo9dOElMw9RXvt6HAw8jxPJgfPSltiThTcdPXNShzVMolpSXcR1x+GKKHS2tdXZCw==",
-	"url": "https://cloud.medier.io/index.php/s/toio3MipfrGmjs3/download/StudyApp.zip"
-    }
-]
+    {"id":1083,"name":"StudyApp.app.zip","desc":"","md5":"51c36999bff276e6263c750b83713a68","product":"SC","year":[],"version":"1.1.8","enabled":true,"updated_time":1669011036000,"url":"http://stagingportal.smartstudy.tw/app_versions/1083?a=1hpo3vo-eXIb11WMZXREA5eNwSKEjD3akQ"},
+    {"id":1083,"name":"StudyApp.app.zip","desc":"","md5":"51c36999bff276e6263c750b83713a68","category":"mac","year":[],"version":"1.1.8","enabled":true,"updated_time":1669011036000,"url":"http://stagingportal.smartstudy.tw/app_versions/1083?a=1hpo3vo-eXIb11WMZXREA5eNwSKEjD3akQ"},
+    {"id":1083,"name":"StudyApp.app.zip","desc":"","md5":"51c36999bff276e6263c750b83713a68","category":"mac","product":"SC","year":[],"version":"1.1.8"p,"updated_time":1669011036000,"url":"http://stagingportal.smartstudy.tw/app_versions/1083?a=1hpo3vo-eXIb11WMZXREA5eNwSKEjD3akQ"},
+    {"id":1124,"name":"StudyApp.zip","desc":"4aBqzvwQPfAD10BA6zFF9Zo9dOElMw9RXvt6HAw8jxPJgfPSltiThTcdPXNShzVMolpSXcR1x+GKKHS2tdXZCw==","md5":"b6eaa0edb27cd95fbd6749f7974d3bd0","category":"mac","product":"SC","year":[],"version":"1.1.0","enabled":false,"updated_time":1671154605000,"url":"http://stagingportal.smartstudy.tw/app_versions/1124?a=1hpo3vo-Zf68r3JxB7vlszIww3ti5Yc8W0"}]
+
